@@ -1,2 +1,1 @@
-test1 xinghaopan
-2
+test1
