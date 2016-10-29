@@ -1,2 +1,0 @@
-test pan
-test paning
